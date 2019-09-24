@@ -31,7 +31,7 @@
 
 下载后，解压并上传到已经搭建好 PHP环境 的服务器中，然后就可以上传文件和创建文件夹了！
 
-- Github打包：https://github.com/ToyoDAdoubiBackup/DirectoryLister/archive/master.zip
+- Github打包：https://github.com/zhaokelei/DirectoryLister/archive/master.zip
 
 - 逗比云打包：[https://softs.run/Website/Directory Lister魔改版(by-Toyo) v2.6.1.zip](https://softs.run/Website/Directory%20Lister%E9%AD%94%E6%94%B9%E7%89%88%28by-Toyo%29%20v2.6.1.zip)
 
